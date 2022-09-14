@@ -7,15 +7,13 @@
  */
 int main(void)
 {
-	int i;
-_putchar('_');
-_putchar('p');
-_putchar('u');
--putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
+	char a[] = "_putchar"
+	int b = 0;
+do {
+
+_putchar a[b]
+b++;
+} while (b < 8)
 _putchar('\n');
 return (0);
 }
