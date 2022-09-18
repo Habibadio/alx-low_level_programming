@@ -1,1 +1,1 @@
- multiply two integers a and b 
+print number 0 to 9 
