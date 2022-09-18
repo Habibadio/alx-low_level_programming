@@ -1,1 +1,1 @@
- check for digit 
+ multiply two integers a and b 
