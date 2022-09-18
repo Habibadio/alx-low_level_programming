@@ -3,7 +3,7 @@
 /**
  * print_numbers  - description to print i
  *
- * Return: Always 0
+ * Return: nothing
  */
 void print_numbers(void)
 
@@ -11,7 +11,7 @@ void print_numbers(void)
 	int i;
 
 	for (i = 0; i <= 9 ; i++)
-	{
+
 		_putchar(i);
-	}
+
 }
