@@ -5,7 +5,7 @@
  * @a: input integer
  * @b: input integer
 *
- * Return : always return 0 for mul
+ * Return: Always return 0
  */
 int mul(int a, int b)
 
