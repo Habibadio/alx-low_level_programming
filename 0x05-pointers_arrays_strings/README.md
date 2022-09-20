@@ -1,1 +1,1 @@
-Write a function that prints a string, followed by a new line, to stdout. 
+ write a fuction that print in reverse 
