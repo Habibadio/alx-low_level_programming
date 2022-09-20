@@ -1,1 +1,1 @@
- write a fuction that print in reverse 
+ function that teverse a string 
