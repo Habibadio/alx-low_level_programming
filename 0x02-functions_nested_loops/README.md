@@ -1,1 +1,1 @@
- print 10 times the alphabet
+function that check for lowercase 
