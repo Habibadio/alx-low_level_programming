@@ -1,1 +1,1 @@
- every minute of theday 
+ 9 times timetable 
