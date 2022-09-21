@@ -1,1 +1,1 @@
- draw a line in terminal 
+draws a diagonal 
