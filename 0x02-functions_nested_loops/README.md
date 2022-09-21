@@ -1,1 +1,1 @@
- print last digit 
+ every minute of theday 
