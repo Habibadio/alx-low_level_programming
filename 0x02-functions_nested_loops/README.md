@@ -1,1 +1,1 @@
- 9 times timetable 
+ add two integers and return the result 
