@@ -1,1 +1,1 @@
- comput absolute value 
+ print last digit 
