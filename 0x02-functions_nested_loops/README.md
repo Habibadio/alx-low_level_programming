@@ -1,1 +1,1 @@
-print multiples of 3 or 5 below 10
+print the first 50 fibonacci numbers 
