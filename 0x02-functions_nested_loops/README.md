@@ -1,1 +1,1 @@
- print all natural numbers from n to 98 
+print n times table starting from zero 
