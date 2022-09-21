@@ -1,1 +1,1 @@
- assign a random variable n 
+print alphabet in lower case 
