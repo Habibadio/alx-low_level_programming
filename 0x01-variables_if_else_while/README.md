@@ -1,1 +1,1 @@
-print possible combination of 3 digits numbers 
+print all possible combination of two digit numbers 
