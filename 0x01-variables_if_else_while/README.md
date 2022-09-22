@@ -1,1 +1,1 @@
-write a program that print all possible digit of single numbers 
+print possible combination of two digit numbers 
