@@ -1,1 +1,1 @@
-print alphabet in lowercase followed by new line 
+print single digit in base 10 starting from zero 
