@@ -1,1 +1,1 @@
- write the number of base 16 in lowercase followed by a new line 
+write a program that print all possible digit of single numbers 
