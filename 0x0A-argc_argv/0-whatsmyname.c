@@ -3,23 +3,23 @@
 #include <stdlib.h>
 
 /**
- * print - a program that prints its name
+ * main - a program that prints its name
  * @argc: argument counts
- * argv: argument vector
+ * @argv: argument vector
  *
  * Return: return 0
  */
 
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 
 {
 	int i;
-	
+
 	printf("This was called with \"%s\".\n", argv[0]);
 
 	if (argc > 1)
 	{
-		for ( i = 1; i < argc; i++)
+		for (i = 1; i < argc; i++)
 		{
 			printf("argv[%d] = %s\n", i, argv[i]);
 		}
