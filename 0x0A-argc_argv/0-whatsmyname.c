@@ -13,21 +13,9 @@
 int main(int argc, char *argv[])
 
 {
-	int i;
 
-	printf("This was called with \"%s\".\n", argv[0]);
+	printf("argc = %d\n", argc);
+	printf("\"%s\".\n", argv[0]);
 
-	if (argc > 1)
-	{
-		for (i = 1; i < argc; i++)
-		{
-			printf("argv[%d] = %s\n", i, argv[i]);
-		}
-	}
-
-	else
-	{
-		printf("No other comments.\n");
-	}
 	return (0);
 }
