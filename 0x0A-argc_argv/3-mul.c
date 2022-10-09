@@ -21,10 +21,11 @@ int main(int argc, char *argv[])
 	{
 		for (i = 1; i < argc; i++)
 		{
-				a = atoi(argv[1]);
-				b = atoi(argv[2]);
-				mul = a * b;
-				printf("%d\n", mul);
+			a = atoi(argv[1]);
+			b = atoi(argv[2]);
+			mul = a * b;
+			printf("%d\n", mul);
+			break;
 		}
 	}
 	else
